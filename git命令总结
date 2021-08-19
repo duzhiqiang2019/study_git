@@ -1,0 +1,10 @@
+git clone 
+git add 
+git commit 
+git push origin master
+
+git stash
+git pull
+git rebase
+
+git branch
